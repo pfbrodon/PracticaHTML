@@ -1,0 +1,26 @@
+body{
+    background-color: #01425a;
+}
+
+
+#Titulo1 {
+    color:chartreuse;
+    background-color: #01425a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.parrafo {
+    color:chartreuse;
+    background-color: #01425a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Titulo2 {
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mail {
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}

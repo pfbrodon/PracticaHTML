@@ -1,11 +1,10 @@
 body{
-    background-image: url('logo1.png');
+    background-image: url('logo2.png');
     background-size: 70%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-color: rgba(1, 66, 90, 1.5);
-    background-blend-mode: darken;
+    background-color: rgba(1, 66, 90, 1);
 
 }
 /*#01425a(255, 255, 255, 0.5)*/
@@ -14,7 +13,7 @@ body{
     color:chartreuse;
     /*background-color: #01425a;*/
     font-family: Arial, Helvetica, sans-serif;
-    align-items: normal;
+    align-items:center;
     animation-name: initial;
 }
 
